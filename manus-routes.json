@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "Natal com Amor — árvores e decoração" },
+    { "path": "/produto/:id", "title": "Detalhes do produto" },
+    { "path": "/carrinho", "title": "Seu carrinho" },
+    { "path": "/condicoes", "title": "Solicitar condições" },
+    { "path": "/solicitacao/:token", "title": "Sua solicitação" },
+    { "path": "/informacoes", "title": "Sobre a coleção" }
+  ]
+}
